@@ -1,0 +1,22 @@
+[
+    {
+        "title": "All Time",
+        "label": "allTime"
+    },
+    {
+        "title": "Past Year",
+        "label": "pastYear"
+    },
+    {
+        "title": "Past Month",
+        "label": "pastMonth"
+    },
+    {
+        "title": "Past Week",
+        "label": "pastWeek"
+    },
+    {
+        "title": "Past 24 Hours",
+        "label": "pastDay"
+    }
+]
